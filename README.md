@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/hemanuela/huddle-landing-page-with-single-introductory-section-master/blob/main/images/myscreenshot.jpg)
 
 
 
