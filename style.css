@@ -6,8 +6,9 @@
 
 /** Body **/
 body {
-    height: 100vh;
-    margin: 30px 120px;
+    height: 90vh;
+    width: 100rem;
+    margin: 50px 120px;
     font-family: 'Open Sans';
 }
 
@@ -17,9 +18,7 @@ body {
         url('images/bg-desktop.svg');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: 
-        right calc(1vw) bottom calc(75vh - 50vw);
-        height: 100%;
+        background-position: center top;
     background-color: hsl(257, 40%, 49%);
 }
 
@@ -37,7 +36,7 @@ body {
 
 #text {
     color: hsl(0, 0%, 100%);
-    padding: 4rem;
+    margin: 3rem;
 }
 
 #text h1 {
@@ -94,11 +93,14 @@ body {
     
     body {
         margin: 10px;
+        width: 23rem;
     }
 
     body{
         background-image: 
             url('images/bg-mobile.svg');
+            background-position: left top;
+            background-size: 100%;
     }
 
     /** Header **/
@@ -122,7 +124,7 @@ body {
         height: 100vh;
         justify-content: center;
         text-align: center;
-        margin: 20px 60px;
+        margin: 1rem;
     }
 
     .content {
