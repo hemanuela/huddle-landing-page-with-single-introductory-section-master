@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/hemanuela/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Here](https://hemanuela.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
