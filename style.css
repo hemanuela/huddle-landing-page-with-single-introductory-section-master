@@ -20,7 +20,6 @@ body {
         background-position: 
         right calc(1vw) bottom calc(75vh - 50vw);
         height: 100%;
-        overflow: hidden;
     background-color: hsl(257, 40%, 49%);
 }
 
@@ -104,7 +103,6 @@ body {
             background-repeat: no-repeat;
             background-position:top;
             height: 100%;
-            overflow: hidden;
         background-color: hsl(257, 40%, 49%);
     }
 
